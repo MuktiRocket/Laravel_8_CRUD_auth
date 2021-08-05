@@ -1,0 +1,1 @@
+1. confusion in {{Auth::user()->name}}    [how it is coming?][from where it is coming?];
